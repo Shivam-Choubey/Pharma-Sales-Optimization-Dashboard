@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/-%F0%9F%92%8A%20PharmaSales%20Dashboard-0A2342?style=for-the-badge&labelColor=0A2342" alt="PharmaSales Dashboard"/>
 
-# PharmaSales Dashboard
+# Pharma Sales Optimization Dashboard
 
 ### Transforming 3 years of raw pharmaceutical sales data into clear, actionable business intelligence
 
