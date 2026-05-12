@@ -6,8 +6,6 @@
 
 ### Transforming 3 years of raw pharmaceutical sales data into clear, actionable business intelligence
 
-<br/>
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -20,9 +18,6 @@
 | **$1.91M** | **2.52M** | **0.54%** | **1,007** | **Jan 2022 – Jun 2024** |
 
 </div>
-
-
-<br/>
 
 ## 🚨 Business Problem
 
@@ -57,7 +52,8 @@ Revenue dropped 8.7% from 2022 to 2023. Nobody noticed until the year was over. 
 **The combined cost of these blind spots:** delayed decisions, misallocated sales effort, preventable returns, unreliable supply, and a business that could not answer its own most basic questions.
 
 ---
-![Dashboard Preview](Churn%20Dashboard.jpg)
+![Dashboard Preview](Pharma%20Dashboard1.jpg)
+![Dashboard Preview](Pharma%20Dashboard2.jpg)
 
 ## ⭐ Project 
 
@@ -163,9 +159,3 @@ Because it is.
 **Impact:** A single week of Antifungal stockout costs ~$9,700 in net revenue. That is more than any other category. Protecting this line costs nothing — letting it run out costs everything.
 
 ---
-
-*⭐ Found this project useful? Give it a star — it helps more people find it.*
-
-*Built with 💙 using real data from a live Power BI model · © 2024 Shivam Choubey*
-
-</div>
